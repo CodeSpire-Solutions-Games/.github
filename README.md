@@ -65,8 +65,8 @@ We combine:
 
 ## 🌐 Ecosystem
 
-* 💻 Software Development → CodeSpire Solutions
-* 🎮 Game Development → CodeSpire Games
+* 💻 Software Development → CodeSpire-Solutions
+* 🎮 Game Development → CodeSpire-Solutions Games
 
 ---
 
